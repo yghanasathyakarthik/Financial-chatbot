@@ -15,7 +15,6 @@ This is a smart financial chatbot that uses **Groq’s LLaMA3-70B model** and **
 ---
 
 ## 🛠️ Technologies
-
 - Python 3.x
 - Flask
 - Groq API (`llama3-70b-8192`)
